@@ -1,12 +1,12 @@
 # **Things understood**
-  - [x] Github Flow
+  - :heavy_check_mark: Github Flow
     - Repository
-    - CLoning
+    - Cloning
     - Commit
     - Push
-  - [x] Forks
-  - [x] Pull Requests
-  - [x] Markdown file for repositories
+  - :heavy_check_mark: Forks
+  - :heavy_check_mark: Pull Requests
+  - :heavy_check_mark: Markdown file for repositories
 
 # **Things still confused about**
-  - [ ] Difference between Branches and Forks
+  - :x: Difference between Branches and Forks
